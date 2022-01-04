@@ -6,3 +6,10 @@ You really cant do anything with it at this point, im working on it.
 
 # Version
 0.0.3
+
+# Updates
+-Fixed bug where console did not load
+-Fixed console logs
+-Added Chat button
+-Updates CSS
+-Linked better fonts
